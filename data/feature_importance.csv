@@ -1,0 +1,33 @@
+Feature,Importance
+tenure,0.3627393520325861
+numTechTickets,0.3227176100056767
+InternetService_Fiber optic,0.12911779307346885
+Contract_Two year,0.05932105986756215
+TotalCharges,0.050793941628844035
+StreamingMovies_No internet service,0.024341803133565012
+InternetService_No,0.020837177797606556
+MonthlyCharges,0.01296075506940488
+MultipleLines_Yes,0.008303816172516338
+PaymentMethod_Electronic check,0.0044982222172041675
+TechSupport_Yes,0.0035508240161356867
+StreamingTV_Yes,0.000817644985429551
+Partner_Yes,0.0
+gender_Male,0.0
+numAdminTickets,0.0
+SeniorCitizen,0.0
+OnlineSecurity_Yes,0.0
+OnlineSecurity_No internet service,0.0
+PhoneService_Yes,0.0
+MultipleLines_No phone service,0.0
+Dependents_Yes,0.0
+DeviceProtection_Yes,0.0
+OnlineBackup_No internet service,0.0
+OnlineBackup_Yes,0.0
+StreamingTV_No internet service,0.0
+TechSupport_No internet service,0.0
+DeviceProtection_No internet service,0.0
+StreamingMovies_Yes,0.0
+Contract_One year,0.0
+PaperlessBilling_Yes,0.0
+PaymentMethod_Credit card (automatic),0.0
+PaymentMethod_Mailed check,0.0
